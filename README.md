@@ -9,10 +9,14 @@ You know the spiderweb damage cracks that happen when you break a block in survi
 Makes the beacon rainbow, both the beacon itself and the beam, plus subtle rainbow edits to the beacon GUI.  
 <h3>S0LAC3.Radiation.zip</h3> 
 Adds a green theme to some things - spider, enderman, endermite, enderdragon and zombie eyes, the spider eye items, ender pearls, the gui, and particles. 
+<h3>S0LAC3.LaserBars.zip</h3>
+Makes iron bars look like lasers. 
 <h3>S0LAC3.GoldenArrows.zip</h3> 
 Makes the arrow gold, both in the inventory, the bow, and the fired arrow stuck in a block/entity. Also adds a gold hint to the gray part of the bow!
 <h3>S0LAC3.Crowns.zip</h3>
 Turns all helmets to crowns... might be buggy... 
+<h3>S0lAC3.ClearGlass.zip</h3>
+Removes the streaks from glass, making it easier to see through. Fair warning; it for some reason doesn't work on black stained glass. All other stained glass/normal glass/glass panes work. 
 <h3>S0LAC3.BetterDogCollars.zip</h3>
 Adds a little gold dangle to the collar, like a name tag. 
 <h3>S0LAC3.BetterFlowerPot.zip</h3>
