@@ -13,5 +13,10 @@ Adds a green theme to some things - spider, enderman, endermite, enderdragon and
 Makes the arrow gold, both in the inventory, the bow, and the fired arrow stuck in a block/entity. Also adds a gold hint to the gray part of the bow!
 <h3>S0LAC3.Crowns.zip</h3>
 Turns all helmets to crowns... might be buggy... 
+<h3>S0LAC3.BetterDogCollars.zip</h3>
+Adds a little gold dangle to the collar, like a name tag. 
+<h3>S0LAC3.BetterFlowerPot.zip</h3>
+Makes the flower pot a prettier color - off-white or eggshell is the best way I can think to describe it. Both in hand and placed. 
+
 <h3>S0LAC3 Ferret Paintings.zip</h3> 
 Makes every painting in minecraft a cute ferret. There's funny ferrets, ferrets in costume, ferrets in sweaters, etc. 
