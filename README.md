@@ -13,6 +13,8 @@ Adds a green theme to some things - spider, enderman, endermite, enderdragon and
 Makes iron bars look like lasers. 
 <h3>S0LAC3.GoldenArrows.zip</h3> 
 Makes the arrow gold, both in the inventory, the bow, and the fired arrow stuck in a block/entity. Also adds a gold hint to the gray part of the bow!
+<h3>S0LAC3.DrippingCauldrons.zip</h3> 
+Adds a red drip effect to cauldrons - sides, rim, and inside when empty. 
 <h3>S0LAC3.Crowns.zip</h3>
 Turns all helmets to crowns... might be buggy... 
 <h3>S0lAC3.ClearGlass.zip</h3>
